@@ -9,9 +9,9 @@
 A proposta desse projeto e de criar um landing page com os links de todas as redes.
  
 ### Coloque traje e vamos la conferir como ficou
-[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/links_BIO/)
+[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](link)
 
-[![web 1](https://raw.githubusercontent.com/Thur17/links_BIO/master/assets/img/projeto-links.png)](https://thur17.github.io/links_BIO/)
+[![web 1](link img )](link)
  
 ## Tecnologias utilizadas 
  HTML - CSS - JavaScript
